@@ -127,6 +127,7 @@ input, select, textarea {
 	.icon {
 		text-decoration: none;
 		position: relative;
+		color: black
 	}
 
 		.icon:before {
@@ -361,6 +362,7 @@ input, select, textarea {
 		text-align: center;
 		top: 0;
 		width: 100%;
+		color: black;
 	}
 
 		#main:before {
@@ -680,7 +682,7 @@ input, select, textarea {
 
 					#header nav a:hover:before {
 						background-color: rgba(255, 255, 255, 0.175);
-						color: #fff;
+						color:yellow;
 					}
 
 				#header nav a:active {
